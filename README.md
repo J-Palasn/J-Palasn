@@ -41,8 +41,8 @@
   <img width="36%" src="https://cdn.jsdelivr.net/gh/J-Palasn/J-Palasn/assets/images/githubgif.gif" />
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
+    <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=onedark" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" />
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Daily Quote" />
   </picture>
 
