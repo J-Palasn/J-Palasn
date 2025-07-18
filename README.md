@@ -41,12 +41,11 @@
 
 <!-- Footer -->
 <div align="center">
-  <!-- just img 图片 -->
-  <img src="https://cdn.jsdelivr.net/gh/J-Palasn/J-Palasn/assets/images/icon.png" /></div>
   <img width="200%" src="https://cdn.jsdelivr.net/gh/J-Palasn/J-Palasn/assets/images/footline.gif" />
 </div>
 
 <div align="center">
   <img width="36%" src="https://cdn.jsdelivr.net/gh/J-Palasn/J-Palasn/assets/images/githubgif.gif" />
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
+  <img src="https://cdn.jsdelivr.net/gh/J-Palasn/J-Palasn/assets/images/icon.png" /></div>
 </div>
