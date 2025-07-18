@@ -6,9 +6,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);&center=true&size=27" />
 </a>
 
-<!-- 空行 -->
+<!-- Space -->
 <div>&nbsp;</div>
-
 
 <tr><td>
 
@@ -22,12 +21,6 @@
 <p>&emsp;&emsp;</p>
 
 </td></tr>
-
-
-
-<!-- GitHub stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=J-Palasn&theme=dark&hide_border=true" />
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=J-Palasn&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&theme=graywhite" />
 
 <!-- Skills Badges -->
 <div align="center">
@@ -46,6 +39,9 @@
 
 <div align="center">
   <img width="36%" src="https://cdn.jsdelivr.net/gh/J-Palasn/J-Palasn/assets/images/githubgif.gif" />
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
+
+  <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
+  <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+
   <img src="https://cdn.jsdelivr.net/gh/J-Palasn/J-Palasn/assets/images/icon.png" /></div>
 </div>
