@@ -40,8 +40,8 @@
 <div align="center">
   <img width="36%" src="https://cdn.jsdelivr.net/gh/J-Palasn/J-Palasn/assets/images/githubgif.gif" />
 
-  <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
-  <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
 
   <img src="https://cdn.jsdelivr.net/gh/J-Palasn/J-Palasn/assets/images/icon.png" /></div>
 </div>
