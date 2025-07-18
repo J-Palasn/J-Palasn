@@ -14,7 +14,7 @@
 
 # About Me
 
-<img align="right" width="200" src="https://cdn.jsdelivr.net/gh/J-Palasn/J-Palasn/assets/images/PKZKgUITEC.gif" />
+<img align="right" width="200" src="https://cdn.jsdelivr.net/gh/J-Palasn/J-Palasn/assets/images/皮卡丘.gif" />
 
 <p>&emsp;&emsp;嗨，你好。</p>
 <p>&emsp;&emsp;</p>
@@ -41,6 +41,6 @@
 
 <!-- Footer -->
 <div align="center">
-  <img width="200%" src="https://cdn.jsdelivr.net/gh/J-Palasn/J-Palasn/assets/images/hr.gif" />
+  <img width="200%" src="https://cdn.jsdelivr.net/gh/J-Palasn/J-Palasn/assets/images/footline.gif" />
   <img width="36%" src="https://cdn.jsdelivr.net/gh/J-Palasn/J-Palasn/assets/images/githubgif.gif" />
 </div>
