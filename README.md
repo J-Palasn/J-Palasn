@@ -53,8 +53,3 @@
   ![Rhino](https://img.shields.io/badge/Rhino-999?style=flat&logo=none&logoColor=white)
   
 </div>
-
-<!-- footer -->
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/J-Palasn/J-Palasn/assets/images/icon.png" /></div>
-</div>
