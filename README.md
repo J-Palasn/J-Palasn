@@ -12,7 +12,7 @@
 
 # About Me
 
-<img align="right" width="150" src="https://cdn.jsdelivr.net/gh/J-Palasn/J-Palasn/assets/images/皮卡丘.gif" />
+<img align="right" width="160" src="https://cdn.jsdelivr.net/gh/J-Palasn/J-Palasn/assets/images/皮卡丘.gif" />
 
 <p>&emsp;&emsp;嗨，你好。</p>
 <p>&emsp;&emsp;</p>
