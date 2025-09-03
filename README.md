@@ -6,10 +6,9 @@
 
 <img align="right" width="160" src="https://cdn.jsdelivr.net/gh/J-Palasn/J-Palasn/assets/images/皮卡丘.gif" />
 
-<p>&emsp;&emsp;嗨，你好。</p>
-<p>&emsp;&emsp;</p>
-<p>&emsp;&emsp;</p>
-<p>&emsp;&emsp;</p>
+<p>&emsp;&emsp;Hi there, I'm Jack</p>
+<p>&emsp;&emsp;Beyond technology, I have a strong passion for architecture and visual design, and I love blending computer science with art to create projects that are both functional and aesthetic.</p>
+<p>&emsp;&emsp;Feel free to explore my repositories — I’m always open to learning, sharing, and collaborating!</p>
 
 </td></tr>
 
