@@ -1,13 +1,8 @@
-
-
-<tr><td>
-
-# About Me
+# 👋 Hi there, I'm Jack  
 
 <img align="right" width="160" src="https://cdn.jsdelivr.net/gh/J-Palasn/J-Palasn/assets/images/皮卡丘.gif" />
 
 <p align="left">
-Hi there, I'm Jack
   
 Beyond technology, I have a strong passion for architecture and visual design, and I love blending computer science with art to create projects that are both functional and aesthetic.</p>
 
@@ -16,6 +11,21 @@ Feel free to explore my repositories — I’m always open to learning, sharing,
 </td></tr>
 
 <div>&nbsp;</div>
+
+---
+
+## 🌟 Featured Project  
+
+### 🥑 Colego - AI Cover Letter Generator  
+An AI-powered cover letter generator built with **Streamlit + OpenRouter API**.  
+It allows users to input job details and generate **personalized, professional cover letters** with ease.  
+
+🔹 Tech Stack: `Python` · `Streamlit` · `OpenRouter API` · `CSS`  
+🔹 Features: local storage persistence · custom UI theme · responsive design  
+
+👉 [View Repository](https://github.com/your-username/colego-cover-letter)  
+
+---
 
 <!-- skills badges -->
 <div align="center">
