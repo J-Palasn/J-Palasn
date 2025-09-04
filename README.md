@@ -23,7 +23,7 @@ It allows users to input job details and generate **personalized, professional c
 🔹 Tech Stack: `Python` · `Streamlit` · `OpenRouter API` · `CSS`  
 🔹 Features: local storage persistence · custom UI theme · responsive design  
 
-👉 [View Repository](https://github.com/your-username/colego-cover-letter)  
+👉 [View Repository](https://github.com/J-Palasn/Colego)  
 
 ---
 
