@@ -4,24 +4,29 @@
 
 <p align="left">
   
-Beyond technology, I have a strong passion for architecture and visual design, and I love blending computer science with art to create projects that are both functional and aesthetic.</p>
+A Computer Science student @ McMaster University.
 
-Feel free to explore my repositories — I’m always open to learning, sharing, and collaborating!</p>
+When I'm not coding, you'll probably find me sketching architecture ideas, experimenting with visual design, or just learning something new for fun.
+
+Check out my repos — I’d love to connect, share ideas, and maybe even collaborate on something awesome!
+
+</p>
 
 </td></tr>
 
 <div>&nbsp;</div>
 
----
 
 ## 🌟 Featured Project  
 
 ### 🥑 Colego - AI Cover Letter Generator  
 An AI-powered cover letter generator built with **Streamlit + OpenRouter API**.  
-It allows users to input job details and generate **personalized, professional cover letters** with ease.  
+It allows users to input personal infomations and job details to generate **personalized, professional cover letters** with ease.  
 
 🔹 Tech Stack: `Python` · `Streamlit` · `OpenRouter API` · `CSS`  
 🔹 Features: local storage persistence · custom UI theme · responsive design  
+
+👉 [App Website](https://colego.streamlit.app)
 
 👉 [View Repository](https://github.com/J-Palasn/Colego)  
 
@@ -35,6 +40,7 @@ It allows users to input job details and generate **personalized, professional c
   ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff&style=flat)
   ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=fff&style=flat)
   ![Hugging Face](https://img.shields.io/badge/HuggingFace-00BFFF?logo=huggingface&logoColor=fff&style=flat)
+  ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=fff&style=flat)
   ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=fff&style=flat)
   ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=fff&style=flat)
   ![Maven](https://img.shields.io/badge/Maven-C71A36?logo=apachemaven&logoColor=fff&style=flat)
@@ -57,3 +63,5 @@ It allows users to input job details and generate **personalized, professional c
   ![Rhino](https://img.shields.io/badge/Rhino-999?style=flat&logo=none&logoColor=white)
   
 </div>
+
+
